@@ -1,12 +1,12 @@
 
-➡️  Splash Screen, 
-➡️ Login & 
-➡️ Signup Layouts 
-➡️ Create Accounts using Firebase Authentication 
-➡️ Store Users Data using Firebase Firestore 
-➡️ Build Menus and Final Layouts 
-➡️ Integrate Video Call SDK 
-➡️ Final Application 
+➡️  Splash Screen, br
+➡️ Login & br
+➡️ Signup Layouts br
+➡️ Create Accounts using Firebase Authentication br
+➡️ Store Users Data using Firebase Firestore br
+➡️ Build Menus and Final Layouts br
+➡️ Integrate Video Call SDK  br
+➡️ Final Application br
 
 Firebase Auth Docs: https://console.firebase.google.com/project/gathertogether-3ec5f/overview
 
